@@ -10,5 +10,3 @@ You may install:<br>
 ```conda install scikit-learn```<br>
 ```pip install livelossplot```<br>
 
-The model is trained and evaluated.
-![img](https://github.com/Surajv311/Radio-Signal-Classifier/blob/master/img1.jpg)
